@@ -1,0 +1,1 @@
+Placeholder class to prevent deleting by git
